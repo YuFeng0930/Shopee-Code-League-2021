@@ -1,4 +1,4 @@
-# Shopee-Code-League-2021
+# Shopee Code League 2021
 
 - Solutions and code for the Shopee Code League 2021 Challenge of our Team ErrNan.
 
